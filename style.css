@@ -1,0 +1,8 @@
+.body_background{
+    background-image:url("download.jpg");
+    background-position:center;
+   background-size: cover;
+}
+#myCanvas{
+    background-color:white;
+}
